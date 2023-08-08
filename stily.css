@@ -1,0 +1,13 @@
+body{
+  background-color: green;
+   background-size: cover;
+   background-position: center;
+   font-family: sans-serif;
+}
+.botones{
+   background-color: silver;
+   border: black 3px solid;
+   padding-top: 400px;
+   padding-bottom: 286px;
+
+}
